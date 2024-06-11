@@ -19,9 +19,10 @@ OpenWeatherMap API: Fetching weather data.
 Clone the repository:
 
 git clone https://github.com/Amisha-sinoban/weather-sure.git
-Navigate to the project directory:
 
-cd weather-forecast
+Navigate to the project directory:
+cd weather-sure
+
 Open index.html in your browser to view the website.
 
 # Future Enhancements
