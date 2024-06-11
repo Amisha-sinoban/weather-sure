@@ -18,7 +18,7 @@ OpenWeatherMap API: Fetching weather data.
 # How to Use
 Clone the repository:
 
-git clone https://github.com/Amisha-sinoban/Weather-Forecast.git
+git clone https://github.com/Amisha-sinoban/weather-sure.git
 Navigate to the project directory:
 
 cd weather-forecast
