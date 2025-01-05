@@ -1,5 +1,6 @@
 # weather-sure (Weather Forecast Website)
 Author - Amisha Singh
+https://weathersure.netlify.app/
 
 # Description
 This Weather Forecast Website provides real-time weather updates, including temperature, humidity, wind speed, and a 7-day forecast. The website automatically detects the user's location using geolocation and displays weather information accordingly. It features a clean, user-friendly interface and is fully responsive for both desktop and mobile devices.
